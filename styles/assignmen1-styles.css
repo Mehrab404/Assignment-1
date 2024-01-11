@@ -1,1 +1,36 @@
-git
+/* * {
+  margin-left: 0 140px;
+ */
+
+header {
+  background-image: url(../resources/Banner\ Image.png);
+  background-repeat: no-repeat;
+  padding: auto 140px 140px 140px ;
+}
+
+.banner {
+  border-radius: 16px;
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+  width: 1320px;
+  height: 600px;
+  
+}
+
+.banner-greet {
+  color: #FFF;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-weight: 400;
+  padding: 177px 530px 16px 530px;
+}
+
+.banner-content {
+  color: #FFF;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  padding: 16px 344px auto 344px;
+
+}
